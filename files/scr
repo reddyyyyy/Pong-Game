@@ -1,3 +1,9 @@
+/*
+Inspirado no canal Veslasoft:
+https://www.youtube.com/watch?v=CzvSokPj4gs,
+https://www.youtube.com/channel/UCv6aZVQz8IHrhgemxZrNRmQ
+*/
+
 var canvas = document.getElementById("mycanvas"); // canvas
 			var ctx = canvas.getContext("2d");
 			
